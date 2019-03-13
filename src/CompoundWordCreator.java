@@ -18,6 +18,9 @@ public class CompoundWordCreator {
     }
 
     private void addCompoundWords(List<String>compoundWords, int letterSum){
-        
+        String compWord1="";
+        String compWord2="";
+
+        for(int )
     }
 }
